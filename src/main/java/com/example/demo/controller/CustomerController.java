@@ -15,7 +15,7 @@ import com.example.demo.repository.CustomerRepository;
 import com.example.demo.service.CustomerService;
 
 @RestController
-public class CourseController {
+public class CustomerController {
 
 	@Autowired
 	private CustomerRepository courseRepository;
